@@ -8,7 +8,7 @@ public class Encap {
 	    
 	    void show()
 	    {
-	    	System.out.println("rollno:"+rollno +"name:"+name +"age:"+age);
+	    	System.out.println("rollno:"+rollno+" name:"+name+" age:"+age);
 	    }
 
 	
