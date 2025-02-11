@@ -1,0 +1,20 @@
+package com.exceptionprgm.java;
+
+public class Test1 {
+	//final block without exception
+	
+	public static void main(String[] args) {
+		
+		try {
+			System.out.println("welcome");
+		}
+		catch(Exception e) {
+			System.out.println("java");
+		}
+		finally {
+			System.out.println("welcome to python");
+		}
+		}
+
+
+}
